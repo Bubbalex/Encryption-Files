@@ -5,7 +5,9 @@ Encryption and Decryption programs needed to make one program
 Hey guys! ive been working on an Encryption/Decryption project and im finally done with the 3 different pieces of code to do so. 
 
 1st one: Uses "mirrors" to change letters.
+
 2nd one. Checks the input and every time it finds a consonant (vowels stay the same) it adds an 'o' and the same consonant. EX: Hello becomes Hohelollol.
+
 3rd. Simple, it changes the ascii value of each letter by adding 2 and changing the letter.
 
 Problem here is, ive created 3 separate projects and i need help putting them together into one big one. 
